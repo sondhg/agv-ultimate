@@ -1,0 +1,93 @@
+{
+  "orders-draft": [
+    {
+      "id": "4346",
+      "vehicleCode": "McLaren",
+      "startPoint": "A",
+      "endPoint": "B",
+      "quickNote": "ko quan trong lam"
+    },
+    {
+      "id": "05b9",
+      "vehicleCode": "Pagani",
+      "startPoint": "D",
+      "endPoint": "C",
+      "quickNote": "note linh tinh cho xe"
+    },
+    {
+      "id": "b170",
+      "vehicleCode": "McLaren",
+      "startPoint": "A",
+      "endPoint": "A",
+      "quickNote": ""
+    },
+    {
+      "id": "6f38",
+      "vehicleCode": "McLaren",
+      "startPoint": "A",
+      "endPoint": "A",
+      "quickNote": "hà chi"
+    }
+  ],
+  "agv-parameters-display": [
+    {
+      "vehicle_code": "Pagani",
+      "Agv_speed": "30m/s",
+      "is_obstacle": "Yes",
+      "Agv_battery": "30%",
+      "previous_node": "A",
+      "next_node": "B",
+      "id": "c6ce"
+    },
+    {
+      "vehicle_code": "McLaren",
+      "Agv_speed": "100m/s",
+      "is_obstacle": "No",
+      "Agv_battery": "50%",
+      "previous_node": "C",
+      "next_node": "B",
+      "id": "b08b"
+    }
+  ],
+  "orders-proceeded": [
+    {
+      "id": "05b9",
+      "vehicleCode": "Pagani",
+      "startPoint": "D",
+      "endPoint": "C",
+      "quickNote": "note linh tinh cho xe"
+    }
+  ],
+  "users": [
+    {
+      "id": "f0bc",
+      "email": "cena@gmail.com",
+      "password": "johncena",
+      "username": "John",
+      "role": "USER"
+    },
+    {
+      "id": "91b9",
+      "email": "son@gmail.com",
+      "password": "lmao",
+      "username": "Hoang Son",
+      "role": "USER"
+    },
+    {
+      "id": "1468",
+      "email": "Chy@gmail.comanhkhoaitay",
+      "password": "chy;pz",
+      "username": "Phạm Vũ",
+      "role": "USER"
+    }
+  ],
+  "login": [],
+  "register": [
+    {
+      "id": "99d1",
+      "email": "testerman@yahoo.hust",
+      "password": "johnman",
+      "username": "cenaman"
+    }
+  ]
+}
