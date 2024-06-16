@@ -22,11 +22,18 @@
       "quickNote": ""
     },
     {
-      "id": "6f38",
+      "id": "3c14",
       "vehicleCode": "McLaren",
       "startPoint": "A",
       "endPoint": "A",
-      "quickNote": "hà chi"
+      "quickNote": ""
+    },
+    {
+      "id": "4441",
+      "vehicleCode": "McLaren",
+      "startPoint": "A",
+      "endPoint": "A",
+      "quickNote": ""
     }
   ],
   "agv-parameters-display": [
@@ -49,39 +56,36 @@
       "id": "b08b"
     }
   ],
-  "orders-proceeded": [
-    {
-      "id": "05b9",
-      "vehicleCode": "Pagani",
-      "startPoint": "D",
-      "endPoint": "C",
-      "quickNote": "note linh tinh cho xe"
-    }
-  ],
   "users": [
     {
-      "id": "f0bc",
-      "email": "cena@gmail.com",
-      "password": "johncena",
-      "username": "John",
-      "role": "USER"
-    },
-    {
-      "id": "91b9",
-      "email": "son@gmail.com",
-      "password": "lmao",
-      "username": "Hoang Son",
-      "role": "USER"
-    },
-    {
-      "id": "1468",
-      "email": "Chy@gmail.comanhkhoaitay",
-      "password": "chy;pz",
-      "username": "Phạm Vũ",
+      "id": "dd92",
+      "email": "son@hust.com",
+      "password": "something",
+      "username": "DHS",
       "role": "USER"
     }
   ],
-  "login": [],
+  "orders-proceeded": [],
+  "login": [
+    {
+      "id": "3aa9",
+      "email": "son@jojo.bro",
+      "password": "haha",
+      "delay": 5000
+    },
+    {
+      "id": "1847",
+      "email": "haha@bro.com",
+      "password": "jenna",
+      "delay": 5000
+    },
+    {
+      "id": "c439",
+      "email": "lozma@dick.corona",
+      "password": "heyho",
+      "delay": 5000
+    }
+  ],
   "register": [
     {
       "id": "99d1",
